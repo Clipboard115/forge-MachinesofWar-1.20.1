@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "machinesofwar:periodot"
+    }
+  },
+  "result": {
+    "item": "machinesofwar:periodot_block"
+  }
+}

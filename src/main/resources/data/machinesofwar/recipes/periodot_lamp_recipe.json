@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "#x#",
+    " # "
+
+  ],
+  "key": {
+    "#": {
+      "item": "machinesofwar:periodot"
+    },
+    "x": {
+      "item": "minecraft:glowstone"
+    }
+  },
+  "result": {
+    "item": "machinesofwar:periodot_lamp"
+  }
+}
