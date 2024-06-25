@@ -34,6 +34,29 @@ public class ModCreativeModTabs {
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.PERIODOT.get());
                         pOutput.accept(ModItems.RAW_PERIODOT.get());
+                        pOutput.accept(ModItems.STEEL_INGOT.get());
+                        pOutput.accept(ModItems.STEEL_PLATE.get());
+                        pOutput.accept(ModItems.STEEL_ROD.get());
+                        pOutput.accept(ModItems.RAW_ALUMINUM.get());
+                        pOutput.accept(ModItems.ALUMINUM_INGOT.get());
+                        pOutput.accept(ModItems.ALUMINUM_PLATE.get());
+                        pOutput.accept(ModItems.ALUMINUM_ROD.get());
+                        pOutput.accept(ModItems.RAW_TIN.get());
+                        pOutput.accept(ModItems.TIN_INGOT.get());
+                        pOutput.accept(ModItems.TIN_PLATE.get());
+                        pOutput.accept(ModItems.TIN_ROD.get());
+                        pOutput.accept(ModItems.RAW_ZINC.get());
+                        pOutput.accept(ModItems.ZINC_INGOT.get());
+                        pOutput.accept(ModItems.ZINC_PLATE.get());
+                        pOutput.accept(ModItems.ZINC_ROD.get());
+                        pOutput.accept(ModItems.BRONZE_INGOT.get());
+                        pOutput.accept(ModItems.BRONZE_PLATE.get());
+                        pOutput.accept(ModItems.BRONZE_ROD.get());
+                        pOutput.accept(ModItems.BRASS_INGOT.get());
+                        pOutput.accept(ModItems.BRASS_PLATE.get());
+                        pOutput.accept(ModItems.BRASS_ROD.get());
+                        pOutput.accept(ModItems.COPPER_PLATE.get());
+                        pOutput.accept(ModItems.COPPER_ROD.get());
                         pOutput.accept(ModItems.METALDETECTOR.get());
 
 

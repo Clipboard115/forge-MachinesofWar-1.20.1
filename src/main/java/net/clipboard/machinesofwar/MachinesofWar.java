@@ -34,7 +34,7 @@ public class MachinesofWar
     public static final String MODID = "machinesofwar";
     // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
-//machines
+    //machines
     public MachinesofWar()
     {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
@@ -79,5 +79,5 @@ public class MachinesofWar
 
         }
 
-}
+    }
 }
